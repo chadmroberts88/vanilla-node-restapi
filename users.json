@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "name": "Chad",
+    "email": "chad@outlook.com",
+    "password": "password1"
+  },
+  {
+    "id": "2",
+    "name": "Timmy",
+    "email": "timmy@outlook.com",
+    "password": "password2"
+  },
+  {
+    "id": "3",
+    "name": "Bobby",
+    "email": "bobby@outlook.com",
+    "password": "password3"
+  },
+  {
+    "id": "fdf12c9c-3921-430c-80a9-a4d9a90b6633",
+    "name": "Name",
+    "email": "someemail@outlook.com",
+    "password": "password"
+  },
+  {
+    "id": "395811ef-c487-4a46-aa8d-0c779e1a0e3d",
+    "name": "Name",
+    "email": "someemail@outlook.com",
+    "password": "password"
+  },
+  {
+    "id": "c9242369-9599-47be-bade-0b5572fdc9e1",
+    "name": "Name",
+    "email": "someemail@outlook.com",
+    "password": "password"
+  },
+  {
+    "id": "300e74f7-2c95-4637-a958-a3fdaccbb378",
+    "name": "Name",
+    "email": "someemail@outlook.com",
+    "password": "password"
+  },
+  {
+    "id": "7cc9ad9e-51a1-4c14-8b0c-d70443641fc7",
+    "name": "Name",
+    "email": "someemail@outlook.com",
+    "password": "password"
+  },
+  {
+    "id": "ba4d977b-44a3-4b4d-a75d-3db7d32186ba",
+    "name": "Testy Testerson",
+    "email": "test@testemail.com",
+    "password": "somepassword"
+  }
+]
