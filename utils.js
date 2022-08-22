@@ -9,7 +9,7 @@ const writeDataToFile = (filename, content) => {
       console.log(error)
     }
   })
-}
+};
 
 const getPostData = (req) => {
   return new Promise((resolve, reject) => {
