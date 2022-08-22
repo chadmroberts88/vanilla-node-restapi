@@ -1,10 +1,10 @@
 const http = require('http');
 const { getAllUsers, getUserById, createUser, updateUser, deleteUser } = require('./controllers/UserController');
 
-const hostname = 'localhost';
 const PORT = process.env.PORT || 3002;
 
 const server = http.createServer((req, res) => {
+
   if (req.url === '/api/users' && req.method === 'GET') {
     getAllUsers(req, res);
   } else if (req.url.match(/\/api\/users\/([0-9]+)/) && req.method === 'GET') {
